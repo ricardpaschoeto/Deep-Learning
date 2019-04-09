@@ -33,4 +33,4 @@ Nanodegree Udacity
 * agents/: Folder containing reinforcement learning agents.
   * policy_search.py: A sample agent has been provided here.
   * agent.py: Develop your agent here.
-*physics_sim.py: This file contains the simulator for the quadcopter.
+* physics_sim.py: This file contains the simulator for the quadcopter.
