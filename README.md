@@ -6,3 +6,5 @@ Nanodegree Udacity
 * Using local GPU NVIDIA
 
 # Project 01 - Predict daily bike rental ridership
+
+# Project 02 - CNN Write an Algorithm for a Dog Identification Ap
