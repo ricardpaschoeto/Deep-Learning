@@ -20,7 +20,7 @@ Nanodegree Udacity
 
 # Project 03 - TV Script Generation
 
-* using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
+using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
 
 # Project 04 - Face Generation
 
@@ -28,6 +28,8 @@ Nanodegree Udacity
 * CelebA
 
 # Project 05 - Train a Quadcopter How to Fly
+
+Design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm
 
 * task.py: Define your task (environment) in this file.
 * agents/: Folder containing reinforcement learning agents.
