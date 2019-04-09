@@ -7,6 +7,8 @@ Nanodegree Udacity
 
 # Project 01 - Predict daily bike rental ridership
 
+Build the first neural network and use it to predict daily bike rental ridership.
+
 # Project 02 - CNN Write an Algorithm for a Dog Identification Ap
 
 * Step 0: Import Datasets
@@ -20,7 +22,7 @@ Nanodegree Udacity
 
 # Project 03 - TV Script Generation
 
-using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
+Using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
 
 # Project 04 - Face Generation
 
