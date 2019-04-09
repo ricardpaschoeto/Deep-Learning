@@ -17,3 +17,7 @@ Nanodegree Udacity
 * Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 * Step 6: Write your Algorithm
 * Step 7: Test Your Algorithm
+
+# Project 03 - TV Script Generation
+
+* using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
